@@ -1,0 +1,14 @@
+name: OrganizationBenefitProfile
+title: OrganizationBenefitProfile
+username:
+account: fauz33
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5418722
+bundleId: 5467349
+url: https://fauz33.shinyapps.io/OrganizationBenefitProfile/
+when: 1642144745.32498
+lastSyncTime: 1642144745.32501
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/dataSource.RData

@@ -4,7 +4,7 @@ home <- tabPanel(title = "Home",
                  br(), br(),
                  HTML("<h1><center><b>Medical Utilization in Company XYZ</b></center></h1>"),
                  br(), br(), br(), br(),
-                 column(width = 12, br(), br(), br(), br()),
+                 column(width = 12, br(), br()),
                  column(width = 2, align = "center",
                         
                  ),
@@ -17,9 +17,9 @@ home <- tabPanel(title = "Home",
                  column(width = 3, align = "center",
                         tab_voronoys(texto = "Utilization", cor = cores[1], id = "homeUtilization")
                  ),
-                 column(width = 12, br(), br(), br(), br()),
+                 column(width = 12, br(),br()),
                  column(width = 12,
-                        br(), br(), br(), br(),
+                        br(), br(), 
                         wellPanel(
                           HTML("<h4><b>Medical Benefits Analysis</b> is the activity to analyse the 
                           utilisation of medical benefit provided by the Company XYZ using data science. The 
